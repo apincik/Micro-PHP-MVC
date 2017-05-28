@@ -1,0 +1,18 @@
+{
+    "name": "andrej/mvc",
+    "description": "mvc micro framework project",
+    "authors": [
+        {
+            "name": "Andrej Pincik",
+            "email": "apincik@gmail.com"
+        }
+    ],
+    "require": {
+		"doctrine/dbal": "v2.5.12"
+	},
+	"config": {
+        "platform": {
+            "php": "7.0.1"
+        }
+    }
+}

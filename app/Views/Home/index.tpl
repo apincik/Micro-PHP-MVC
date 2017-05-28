@@ -1,0 +1,2 @@
+
+Smarty variable -> {$content}
